@@ -342,7 +342,3 @@ end
 - [Roblox Developer Hub](https://developer.roblox.com/en-us/learn-roblox/coding-scripts)
 - [Object-Oriented Programming in Lua](http://www.lua.org/pil/16.html)
 - [Metatables and Metamethods](http://www.lua.org/pil/13.html)
-
-## License
-
-This documentation is licensed under the MIT License - see the LICENSE file for details.
